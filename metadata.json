@@ -1,0 +1,6 @@
+{
+  "name": "Remini AI",
+  "description": "AI photo and video enhancement app with face restoration, 4K upscaling, B&W colorization, AI styles, interactive before/after slider, and AI architecture blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
